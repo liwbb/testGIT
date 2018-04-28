@@ -1,0 +1,15 @@
+git init 初始化
+git add . 添加文件
+git commit -m "" 注释并添加哦
+git remote add origin git@github.com:liwbb/testGIT.git 
+git push -u origin master 将本地仓库提交到远程仓库中
+git checkout dev 切换分支
+git merge origin/dev 将dev分支合并到origin中
+git branch dev创建dev分支
+git pull origin master 将远程服务器上的文件拉取到本地
+git remote rm 删除文件
+git clone git地址 将项目clone 到本地
+type nul>创建文件
+md nn 创建文件夹
+git status 查看当前状态
+git branch 查看分支
